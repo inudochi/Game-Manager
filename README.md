@@ -6,10 +6,10 @@
 
 **Скриншот рабочего окна приложения**:
 
-![Скриншот программы]("img width="1200" height="751" alt="Image" src="https://github.com/user-attachments/assets/9a5f42bd-818a-4a5e-8228-863880011a4e")
+![Скриншот программы](https://github.com/user-attachments/assets/9a5f42bd-818a-4a5e-8228-863880011a4e)
 
 **Скриншот Telegram-бота**:
-![Скриншот из Telegram]("img width="576" height="1229" alt="Image" src="https://github.com/user-attachments/assets/780d130c-8b66-44ee-b10a-d651ac4187fb")
+![Скриншот из Telegram](https://github.com/user-attachments/assets/780d130c-8b66-44ee-b10a-d651ac4187fb)
 
 ## Архитектура
-![UML диаграмма]("img width="4096" height="1097" alt="Image" src="https://github.com/user-attachments/assets/253fe7f6-2788-4484-a16a-ed12e7d38920")
+![UML диаграмма](https://github.com/user-attachments/assets/253fe7f6-2788-4484-a16a-ed12e7d38920)
