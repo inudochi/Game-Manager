@@ -1,0 +1,15 @@
+# Game-Manager
+----------------
+**Описание**:   Это приложение для управления коллекцией компьютерных игр. Позволяет добавлять, редактировать, удалять игры, планировать игровые сессии и отслеживать активность игр. Поддерживает работу с JSON-файлами и базой данных PostgreSQL. Включает Telegram-бота для удаленного управления коллекцией.
+ - **Технологический стек**: JavaFX, Telegram Bot API, PostgreSQL, JSON.
+ - **Статус**:  1.0.
+
+**Скриншот рабочего окна приложения**:
+
+![Скриншот программы](img width="1200" height="751" alt="Image" src="https://github.com/user-attachments/assets/9a5f42bd-818a-4a5e-8228-863880011a4e")
+
+**Скриншот Telegram-бота**:
+![Скриншот из Telegram](img width="576" height="1229" alt="Image" src="https://github.com/user-attachments/assets/780d130c-8b66-44ee-b10a-d651ac4187fb)
+
+## Архитектура
+![UML диаграмма](img width="4096" height="1097" alt="Image" src="https://github.com/user-attachments/assets/253fe7f6-2788-4484-a16a-ed12e7d38920)
