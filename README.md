@@ -9,6 +9,7 @@
 ![Скриншот программы](https://github.com/user-attachments/assets/9a5f42bd-818a-4a5e-8228-863880011a4e)
 
 **Скриншот Telegram-бота**:
+
 ![Скриншот из Telegram](https://github.com/user-attachments/assets/780d130c-8b66-44ee-b10a-d651ac4187fb)
 
 ## Архитектура
